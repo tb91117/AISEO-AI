@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(find \"E:\\\\Work\\\\Example-Projects\\\\_Test_Employment\\\\AI-founding-engineer-assignment\" -not -path \"*/.git*\" -type f -exec file {} \\\\;)",
+      "Bash(python -c ':*)",
+      "Bash(python:*)"
+    ]
+  }
+}
